@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require('fs');
 const util = require("util");
 
-const generatorMarkdown = require('./Develop/utils/generateMarkdown');
+const generatorMarkdown = require('./generateMarkdown');
 
 // !: questions array
 
