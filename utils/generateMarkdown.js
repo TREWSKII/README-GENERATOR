@@ -43,10 +43,10 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
   ## Table-of-Contents
   * [Description](#description)
-  * [Installation](#installation)
+  * [Installation](#Installation)
   * [Usage](#usage)
   ${renderLicenseTOC(data.license)}
-  * [Contributing](#contributing)
+  * [Contributions(#contributions)
   * [Tests](#tests)
   * [Questions](#questions)
   
